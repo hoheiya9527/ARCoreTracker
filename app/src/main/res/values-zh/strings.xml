@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScanArcore</string>
+    <string name="ar_detecting_plane">正在检测平面，请缓慢移动设备…</string>
+    <string name="ar_plane_detected">平面检测完成，开始扫描</string>
+    <string name="ar_plane_detection">平面检测</string>
+</resources>
